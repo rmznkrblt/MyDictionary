@@ -1,0 +1,13 @@
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.exe
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.dll
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csprojAssemblyReference.cache
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.dll
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+G:\Project\c# project\GitHub\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
